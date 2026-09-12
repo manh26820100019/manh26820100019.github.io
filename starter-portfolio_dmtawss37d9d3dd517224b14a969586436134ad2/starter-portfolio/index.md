@@ -2,7 +2,7 @@
 title: Hồ sơ nhập ngành
 ---
 
-# Nguyễn Văn An
+# Trần Quang Mạnh
 
 <!-- ========= PHẦN TÓM TẮT — bốn dòng, người đọc thấy trong sáu giây đầu =========
      Điền ở Bài 6. Bốn dòng, không hơn. Xem tờ "Trang chủ chính là CV".
@@ -36,4 +36,4 @@ Ngoài ra: [Nhật ký dùng AI](ai-log.md) — khai báo cho cả học phần.
 
 ---
 
-*Cập nhật lần cuối: … · Liên hệ: …@…*
+*Cập nhật lần cuối: … · Liên hệ: tranquangmanhhcm@gmail.com*
