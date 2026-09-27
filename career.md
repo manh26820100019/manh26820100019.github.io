@@ -34,7 +34,8 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 Ảnh chụp màn hình ba tin lưu trong thư mục:<img width="1919" height="957" alt="image" src="https://github.com/user-attachments/assets/b6292d67-2909-4c37-9b56-94de24434b23" />
 <img width="1907" height="963" alt="image" src="https://github.com/user-attachments/assets/a9008f82-5ce1-422d-9264-3373b37bab7d" />
-<img width="1914" height="963" alt="image" src="https://github.com/user-attachments/assets/b7411ff5-e5ce-4634-8ced-167a3cf2b1e7" />
+<img width="1916" height="967" alt="image" src="https://github.com/user-attachments/assets/5e834041-0d99-4fcd-9afd-21917f2081d3" />
+
 
 ## Hai chỗ AI tự thêm mà tôi bắt được
 
