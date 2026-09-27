@@ -28,9 +28,9 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 | # | Công ty | Vị trí | Đường dẫn | Ngày truy cập |
 |---|---|---|---|---|
-| 1 |CÔNG TY CỔ PHẦN DƯỢC PHẨM FPT LONG CHÂU|CÔNG TY CỔ PHẦN DƯỢC PHẨM FPT LONG CHÂU|[[ … ](https://careerviet.vn/vi/tim-viec-lam/back-end-engineer.35C8600E.html)]| …/…/… |
-| 2 | … | … | … | …/…/… |
-| 3 | … | … | … | …/…/… |
+| 1 |CÔNG TY CỔ PHẦN DƯỢC PHẨM FPT LONG CHÂU|Nhân viên chính thức|[[ … ](https://careerviet.vn/vi/tim-viec-lam/back-end-engineer.35C8600E.html)]| 27/09/2026 |
+| 2 |HD SAISON Finance Co., Ltd|Nhân viên chính thức|[ … ](https://careerviet.vn/vi/tim-viec-lam/lead-frontend-engineer-game.35C835A3.html)| 27/09/2026 |
+| 3 |CÔNG TY CỔ PHẦN TẬP ĐOÀN KIDO|Nhân viên chính thức|[ … ](https://careerviet.vn/vi/tim-viec-lam/backend-developer-java-spring-boot.35C8714E.html)| 27/09/2026 |
 
 Ảnh chụp màn hình ba tin lưu trong thư mục `anh/`.
 
