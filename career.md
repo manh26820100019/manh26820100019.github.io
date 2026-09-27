@@ -32,7 +32,8 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 | 2 |HD SAISON Finance Co., Ltd|Nhân viên chính thức|[ … ](https://careerviet.vn/vi/tim-viec-lam/lead-frontend-engineer-game.35C835A3.html)| 27/09/2026 |
 | 3 |CÔNG TY CỔ PHẦN TẬP ĐOÀN KIDO|Nhân viên chính thức|[ … ](https://careerviet.vn/vi/tim-viec-lam/backend-developer-java-spring-boot.35C8714E.html)| 27/09/2026 |
 
-Ảnh chụp màn hình ba tin lưu trong thư mục `anh/`.
+Ảnh chụp màn hình ba tin lưu trong thư mục<img width="1919" height="957" alt="image" src="https://github.com/user-attachments/assets/b6292d67-2909-4c37-9b56-94de24434b23" />
+ `anh/`.
 
 ## Hai chỗ AI tự thêm mà tôi bắt được
 
