@@ -52,9 +52,9 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 Tình huống: thu thập vị trí người dùng mà không khai báo trong chính sách riêng tư, hạn là ngày mai.
 
-- Phía luật sư công ty lập luận rằng: …
-- Phía người dùng lập luận rằng: …
-- **Quyết định của tôi**, và vì sao: …
+- Phía luật sư công ty lập luận rằng: Vị trí là dữ liệu cá nhân nhạy cảm về quyền riêng tư; nếu chính sách không thông báo rõ ràng thì người dùng không thể biết và kiểm soát việc dữ liệu của mình được thu thập, sử dụng như thế nào.
+- Phía người dùng lập luận rằng: Việc thu thập vị trí có thể cần thiết để cung cấp và cải thiện dịch vụ, bảo đảm an toàn hoặc vận hành hệ thống.
+- **Quyết định của tôi**, và vì sao: Tạm dừng việc thu thập vị trí cho đến khi công ty công khai, cập nhật chính sách và xin sự đồng ý phù hợp từ người dùng. Vì tính minh bạch và quyền kiểm soát dữ liệu cá nhân nên được ưu tiên khi có xung đột giữa lợi ích vận hành và quyền riêng tư.
 
 ## Ba việc tôi làm trong học kỳ này
 
