@@ -8,7 +8,7 @@ title: Chân dung nghề của tôi
 
 ## Hướng tôi nhắm
 
-…
+Xây dựng logic phía máy chủ, hệ thống cơ sở dữ liệu và API kết nối các công cụ giao diện người dùng với dữ liệu cơ bản
 
 Vì sao: …
 
