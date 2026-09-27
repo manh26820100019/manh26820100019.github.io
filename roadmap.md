@@ -8,7 +8,7 @@ title: Bản đồ học tập bốn năm
 > 
 ## Hướng tôi nhắm, nhắc lại từ Bài 1
 
-…
+Xây dựng logic phía máy chủ, hệ thống cơ sở dữ liệu và API kết nối các công cụ giao diện người dùng với dữ liệu cơ bản
 
 ## Tám học kỳ
 
