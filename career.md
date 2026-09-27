@@ -20,7 +20,7 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 | Lớp | Tin 1 | Tin 2 | Tin 3 | Tôi đã có? |
 |---|---|---|---|---|
 | Kiến thức |  Ít nhất 3 năm kinh nghiệm trong việc phát triển ứng dụng web bằng NextJS, Tailwind css, Typescript.Kinh nghiệm làm việc với Agile Team. Có kiến thức tốt về OOP, hiểu và áp dụng các nguyên lý SOLID, Design Pattern.Có kiến thức tốt về cấu trúc dữ liệu và giải thuật.| … | … | một phần |
-| Kỹ năng | Kỹ năng đọc hiểu Tiếng Anh chuyên ngành.Kỹ năng phân tích, tổng hợp thông tin.| … | … | … |
+| Kỹ năng | Kỹ năng đọc hiểu Tiếng Anh chuyên ngành.Kỹ năng phân tích, tổng hợp thông tin.| Thành thạo ngôn ngữ Typescript và các giải pháp quản lý trạng thái (Riverpod, BLoC, Provider). Am hiểu sâu về Game Loop, Physics engine, Animation và xử lý va chạm. Kiến thức vững chắc về API Integration (RESTful, GraphQL) và WebSocket cho Game đa người chơi. Nắm vững các nguyên tắc tối ưu hóa UI/UX, responsive design cho Game trên nhiều kích thước màn hình. Có kinh nghiệm sử dụng các công cụ thiết kế (Figma, Adobe) để phối hợp triển khai giao diện chính xác (Pixel-perfect). | … | … |
 | Thái độ | Sẵn sàng học hỏi, cầu thị, chủ động, có trách nhiệm trong công việc.Năng động, có định hướng chi tiết trong công việc.| … | … | … |
 | Công cụ | … | … | … | … |
 
