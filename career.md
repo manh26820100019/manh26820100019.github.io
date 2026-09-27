@@ -73,4 +73,4 @@ Cụ thể tới mức tháng sau kiểm được.
 | **Học** |tìm được lời giải và sửa lỗi sai hay lỗ hổng do AI tạo ra từ các câu trả lời.|
 | **Hành** |áp dụng được vào cuộc sống cũng như ngành nghề trong tương lại bản thân sẽ làm.|
 
-Công cụ đã dùng:AI hay, ChatGPT.
+Công cụ đã dùng: AI hay, ChatGPT.
