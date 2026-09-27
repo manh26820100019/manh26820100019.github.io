@@ -28,7 +28,7 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 | # | Công ty | Vị trí | Đường dẫn | Ngày truy cập |
 |---|---|---|---|---|
-| 1 | … | … | … | …/…/… |
+| 1 |CÔNG TY CỔ PHẦN DƯỢC PHẨM FPT LONG CHÂU|CÔNG TY CỔ PHẦN DƯỢC PHẨM FPT LONG CHÂU|[[ … ](https://careerviet.vn/vi/tim-viec-lam/back-end-engineer.35C8600E.html)]| …/…/… |
 | 2 | … | … | … | …/…/… |
 | 3 | … | … | … | …/…/… |
 
