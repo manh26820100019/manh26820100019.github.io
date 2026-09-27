@@ -20,10 +20,8 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 | Lớp | Tin 1 | Tin 2 | Tin 3 | Tôi đã có? |
 |---|---|---|---|---|
 | Kiến thức | - Ít nhất 3 năm kinh nghiệm trong việc phát triển ứng dụng web bằng NextJS, Tailwind css, Typescript.
-- Kinh nghiệm làm việc với Agile Team.
-
-
-- Có kiến thức tốt về OOP, hiểu và áp dụng các nguyên lý SOLID, Design Pattern.| … | … | một phần |
+            | - Kinh nghiệm làm việc với Agile Team.
+            | - Có kiến thức tốt về OOP, hiểu và áp dụng các nguyên lý SOLID, Design Pattern.| … | … | một phần |
 | Kỹ năng || … | … | … |
 | Thái độ || … | … | … |
 | Công cụ | … | … | … | … |
