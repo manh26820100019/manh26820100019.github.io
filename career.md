@@ -61,9 +61,9 @@ Tình huống: thu thập vị trí người dùng mà không khai báo trong ch
 
 ## Ba việc tôi làm trong học kỳ này
 
-1. …
-2. …
-3. …
+1. Cố gắng làm quen với môi trường mới
+2. Ổn định được thời gian sinh hoạt
+3. Tạo thêm nhiều mối quan hệ
 
 Cụ thể tới mức tháng sau kiểm được.
 
