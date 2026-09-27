@@ -10,7 +10,7 @@ title: Chân dung nghề của tôi
 
 Xây dựng logic phía máy chủ, hệ thống cơ sở dữ liệu và API kết nối các công cụ giao diện người dùng với dữ liệu cơ bản
 
-Vì sao: …
+Vì sao:Vì những gì liên quan đến điện tử vốn được bản thân tôi học một ít từ trước đó
 
 ## Bảng năng lực rút từ ba tin tuyển dụng
 
