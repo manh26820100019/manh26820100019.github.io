@@ -26,8 +26,14 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 - Có kiến thức tốt về OOP, hiểu và áp dụng các nguyên lý SOLID, Design Pattern.
 
 - Có kiến thức tốt về cấu trúc dữ liệu và giải thuật.| … | … | một phần |
-| Kỹ năng | … | … | … | … |
-| Thái độ | … | … | … | … |
+| Kỹ năng |- Kỹ năng đọc hiểu Tiếng Anh chuyên ngành.
+
+- Kỹ năng phân tích, tổng hợp thông tin.| … | … | … |
+| Thái độ |- Sẵn sàng học hỏi, cầu thị, chủ động, có trách nhiệm trong công việc.
+
+- Năng động, có định hướng chi tiết trong công việc.
+
+- Trung thực, trách nhiệm, chuyên nghiệp.| … | … | … |
 | Công cụ | … | … | … | … |
 
 ## Ba tin tuyển dụng
