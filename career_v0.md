@@ -27,11 +27,12 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 | # | Công ty | Vị trí | Đường dẫn | Ngày truy cập |
 |---|---|---|---|---|
-| 1 | … | … | … | …/…/… |
-| 2 | … | … | … | …/…/… |
-| 3 | … | … | … | …/…/… |
+| 1 |CÔNG TY CỔ PHẦN CHỨNG KHOÁN ASEAN|Nhân viên chính thức|[ … ](https://careerviet.vn/vi/tim-viec-lam/lap-trinh-java-backend-developer.35C8385F.html)| 27/09/2026 |
+| 2 | … |Nhân viên chính thức| … | …/…/… |
+| 3 | … |Nhân viên chính thức| … | …/…/… |
 
-Ảnh chụp màn hình ba tin lưu trong thư mục `anh/`.
+Ảnh chụp màn hình ba tin lưu trong thư mục<img width="1919" height="959" alt="image" src="https://github.com/user-attachments/assets/ec9714cb-3238-4974-aa16-52a5ed8e3672" />
+
 
 ## Hai chỗ AI tự thêm mà tôi bắt được
 
