@@ -18,10 +18,10 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 | Lớp | Tin 1 | Tin 2 | Tin 3 | Tôi đã có? |
 |---|---|---|---|---|
-| Kiến thức | … | … | … | chưa / một phần / rồi |
-| Kỹ năng | … | … | … | … |
-| Thái độ | … | … | … | … |
-| Công cụ | … | … | … | … |
+| Kiến thức | Hiểu biết về kiến trúc Microservice (MSA), SOA, Event-Driven Architecture (EDA). Hiểu biết và có kinh nghiệm thực tế với DevOps, CI/CD, Container, Docker, k8s. Nắm vững kiến thức về cấu trúc dữ liệu và giải thuật. Hiểu biết về Agile/Scrum.| … | … | chưa  |
+| Kỹ năng | Có kinh nghiệm trong lĩnh vực phát triển phần mềm trong lĩnh vực Tài chính, Ngân hàng (2 năm kinh nghiệm trở lên). Thành thạo lập trình hướng đối tượng Java (2 năm kinh nghiệm trở lên). Có kinh nghiệm làm việc với Spring Boot, Maven, Kafka. Có kinh nghiệm thiết kế và phát triển RESTful API, SOAP. Có kinh nghiệm cơ sở dữ liệu Oracle, Postgre, Redis. Sử dụng thành thạo các công cụ quản lý code SVN, Github. Có kỹ năng tư duy chiến lược, phân tích, xây dựng quy trình, sản phẩm công nghệ số. Có khả năng làm việc độc lập, làm việc nhóm, chịu được áp lực cao. Có khả năng tư duy logic, nghiên cứu công nghệ mới.| … | … | … |
+| Thái độ | Nhiệt tình, trách nhiệm với công việc| … | … | … |
+| Công cụ |Laptop hoặc pc dùng cho lập trình| … | … | … |
 
 ## Ba tin tuyển dụng
 
