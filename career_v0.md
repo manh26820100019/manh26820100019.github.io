@@ -28,10 +28,12 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 | # | Công ty | Vị trí | Đường dẫn | Ngày truy cập |
 |---|---|---|---|---|
 | 1 |CÔNG TY CỔ PHẦN CHỨNG KHOÁN ASEAN|Nhân viên chính thức|[ … ](https://careerviet.vn/vi/tim-viec-lam/lap-trinh-java-backend-developer.35C8385F.html)| 27/09/2026 |
-| 2 | … |Nhân viên chính thức| … | …/…/… |
-| 3 | … |Nhân viên chính thức| … | …/…/… |
+| 2 |Công Ty TNHH Tư Vấn Kỹ Thuật Và Tin Học Thương Mại Viet C.A.D|Nhân viên chính thức|[ … ](https://careerviet.vn/vi/tim-viec-lam/full-stack-developer.35C86758.html)| 27/09/2026 |
+| 3 |CÔNG TY TRÁCH NHIỆM HỮU HẠN PIMA|Nhân viên chính thức|[ … ](https://careerviet.vn/vi/tim-viec-lam/chuyen-vien-lap-trinh.35C87F1B.html)| 27/09/2026 |
 
-Ảnh chụp màn hình ba tin lưu trong thư mục<img width="1919" height="959" alt="image" src="https://github.com/user-attachments/assets/ec9714cb-3238-4974-aa16-52a5ed8e3672" />
+Ảnh chụp màn hình ba tin lưu trong thư mục:<img width="1919" height="959" alt="image" src="https://github.com/user-attachments/assets/ec9714cb-3238-4974-aa16-52a5ed8e3672" />
+<img width="1910" height="964" alt="image" src="https://github.com/user-attachments/assets/6a9c7be6-e667-42e4-ba3a-f447162ad7a4" />
+<img width="1919" height="957" alt="image" src="https://github.com/user-attachments/assets/eee8fa02-5ca7-4dff-8427-87f4ea4928ff" />
 
 
 ## Hai chỗ AI tự thêm mà tôi bắt được
